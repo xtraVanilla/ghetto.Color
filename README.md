@@ -18,12 +18,14 @@ To answer that question, we'll use the following criteria:
 
 > In the FBI’s Uniform Crime Reporting (UCR) Program, violent crime is composed of four offenses: murder and nonnegligent manslaughter, rape, robbery, and aggravated assault. Violent crimes are defined in the UCR Program as those offenses that involve force or threat of force. -- [US Dept of Justice]([https://en.wikipedia.org/wiki/American_ghettos#Description](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/violent-crime))
 
-// dataset: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-6
-// data processing steps:
-// 1. geolocation
-//  a. city geocoords
-//  b. county geocoords (if any)
-// 2. crime data => row 3
+[comment]: # (dataset: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-6)
+[comment]: # (data processing steps:)
+[comment]: # (1. geolocation)
+[comment]: # (a. city geocoords)
+[comment]: # (b. county geocoords [if any] )
+[comment]: # (2. crime data = row 3)
+
+[comment]: # (x)
 
 #### Poverty
 

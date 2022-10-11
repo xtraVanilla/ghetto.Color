@@ -1,10 +1,10 @@
 # ghetto.Color
 [comment]: # (rewrite ^)
-## 1. What is a ghetto [in the US]?
-##
+### 1. What is a ghetto [in the US]?
+
 > "American ghetto" usually denotes an urban neighborhood with crime, gang violence, and extreme poverty, with a significant number of minority citizens living in it. -- [American ghettos](https://en.wikipedia.org/wiki/American_ghettos#Description), _Wikipedia_
 
-## 2. Can you find ghettos through data?
+### 2. Can you find ghettos through data?
 
 To answer that question, we'll use the following criteria: 
 
@@ -14,7 +14,9 @@ To answer that question, we'll use the following criteria:
 2. Poverty
 3. Minorities
 
-[comment]: # (4 layered map (color coded))
+
+[comment]: # (4 layered map [color coded])
+
 [comment]: # (layer 1: colloquial ghettos)
 [comment]: # (layer 2: high crime areas)
 [comment]: # (layer 3: gang violence)

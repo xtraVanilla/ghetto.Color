@@ -21,23 +21,21 @@ To answer that question, we'll use the following criteria:
 > In the FBI’s Uniform Crime Reporting (UCR) Program, violent crime is composed of four offenses: murder and nonnegligent manslaughter, rape, robbery, and aggravated assault. Violent crimes are defined in the UCR Program as those offenses that involve force or threat of force. -- [US Dept of Justice]([https://en.wikipedia.org/wiki/American_ghettos#Description](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/violent-crime))
 
 [comment]: # (dataset: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-6)
-[comment]: # (data processing steps:)
-[comment]: # (1. geolocation / metropolitan geocords according to fbi)
-[comment]: # (a. city geocoords)
-[comment]: # (b. county geocoords [if any] )
-[comment]: # (2. crime data = row 3)
+[comment]: # (FBI Crime in the United States Annual Reports // offenses known to law enforcement)
+[comment]: # (1. city geocoords)
+[comment]: # (2. gen crime data )
 
 #### Poverty
 [comment]: # (https://www.census.gov/data/datasets/2020/demo/saipe/2020-state-and-county.html)
-[comment]: # (gather county geocords)
-[comment]: # (poverty estimate all ages)
-[comment]: # (median income)
+[comment]: # (1. gather county geocords)
+[comment]: # (2. poverty estimate all ages)
+[comment]: # (3. median income)
 
 #### Minorities
 [comment]: # (2020 Census Redistricting Data (P.L. 94-171))
 [comment]: # (https://data.census.gov/cedsci/table?g=0100000US%240500000&y=2020&d=DEC%20Redistricting%20Data%20%28PL%2094-171%29&tid=DECENNIALPL2020.P1)
-[comment]: # (gather county geocords)
-[comment]: # (refer to column metadata to gather the correct columns for racial data)
+[comment]: # (1. gather county geocords)
+[comment]: # (2. refer to column metadata to gather the correct columns for racial data)
 
 
 [comment]: # (3 layer map [color coded])

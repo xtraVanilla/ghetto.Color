@@ -29,6 +29,14 @@ To answer that question, we'll use the following criteria:
 
 #### Poverty
 
+#### Minorities
+
+[comment]: # (2020 Census Redistricting Data (P.L. 94-171))
+[comment]: # (https://data.census.gov/cedsci/table?g=0100000US%240500000&y=2020&d=DEC%20Redistricting%20Data%20%28PL%2094-171%29&tid=DECENNIALPL2020.P1)
+[comment]: # (GEOID + NAME = geocords)
+[comment]: # (refer to column metadata to gather the correct columns for racial data)
+
+
 [comment]: # (4 layered map [color coded])
 
 [comment]: # (layer 1: colloquial ghettos)

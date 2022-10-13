@@ -1,3 +1,5 @@
+[comment]: # (a)
+
 # ghetto.Color
 [comment]: # (rewrite ^)
 ### 1. What is a ghetto [in the US]?
@@ -20,30 +22,30 @@ To answer that question, we'll use the following criteria:
 
 [comment]: # (dataset: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-6)
 [comment]: # (data processing steps:)
-[comment]: # (1. geolocation)
+[comment]: # (1. geolocation / metropolitan geocords according to fbi)
 [comment]: # (a. city geocoords)
 [comment]: # (b. county geocoords [if any] )
 [comment]: # (2. crime data = row 3)
 
-[comment]: # (x)
-
 #### Poverty
+[comment]: # (https://www.census.gov/data/datasets/2020/demo/saipe/2020-state-and-county.html)
+[comment]: # (gather county geocords)
+[comment]: # (poverty estimate all ages)
+[comment]: # (median income)
 
 #### Minorities
-
 [comment]: # (2020 Census Redistricting Data (P.L. 94-171))
 [comment]: # (https://data.census.gov/cedsci/table?g=0100000US%240500000&y=2020&d=DEC%20Redistricting%20Data%20%28PL%2094-171%29&tid=DECENNIALPL2020.P1)
-[comment]: # (GEOID + NAME = geocords)
+[comment]: # (gather county geocords)
 [comment]: # (refer to column metadata to gather the correct columns for racial data)
 
 
 [comment]: # (4 layered map [color coded])
 
-[comment]: # (layer 1: colloquial ghettos)
-[comment]: # (layer 2: high crime areas)
-[comment]: # (layer 3: gang violence)
-[comment]: # (layer 4: poverty stricken areas)
-[comment]: # (layer 5: high % of non-white)
+[comment]: # (layer 1: high crime areas)
+[comment]: # (layer 2: poverty stricken areas)
+[comment]: # (layer 3: high % of non-white)
+
 [comment]: # (layer opacity is dimmed by switches)
 [comment]: # (the idea is to mix the colors in such a way that it highlights areas)
 [comment]: # (suffering from all these afflictions simultaneously)

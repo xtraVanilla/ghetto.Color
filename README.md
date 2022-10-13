@@ -37,11 +37,10 @@ To answer that question, we'll use the following criteria:
 [comment]: # (1. gather county geocords)
 [comment]: # (2. refer to column metadata to gather the correct columns for racial data)
 
-
 [comment]: # (3 layer map [color coded])
-[comment]: # (layer 1: high crime areas)
-[comment]: # (layer 2: poverty stricken areas)
-[comment]: # (layer 3: high % of non-white)
+[comment]: # (layer 1: crime = red)
+[comment]: # (layer 2: poverty = blue)
+[comment]: # (layer 3: minorities = black)
 
 [comment]: # (layer opacity is dimmed by switches)
 [comment]: # (the idea is to mix the colors in such a way that it highlights areas)

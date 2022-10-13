@@ -40,8 +40,7 @@ To answer that question, we'll use the following criteria:
 [comment]: # (refer to column metadata to gather the correct columns for racial data)
 
 
-[comment]: # (4 layered map [color coded])
-
+[comment]: # (3 layer map [color coded])
 [comment]: # (layer 1: high crime areas)
 [comment]: # (layer 2: poverty stricken areas)
 [comment]: # (layer 3: high % of non-white)

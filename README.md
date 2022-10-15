@@ -23,7 +23,7 @@ To answer that question, we'll use the following criteria:
 [comment]: # (dataset: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-6)
 [comment]: # (FBI Crime in the United States Annual Reports // offenses known to law enforcement)
 [comment]: # (1. city geocoords)
-[comment]: # (2. gen crime data )
+[comment]: # (2. gen crime data)
 
 #### Poverty
 [comment]: # (https://www.census.gov/data/datasets/2020/demo/saipe/2020-state-and-county.html)
